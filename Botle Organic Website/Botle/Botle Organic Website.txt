@@ -1,0 +1,12 @@
+### Sections:
+1. Logo + Navigation (Botle Logo + Products, About, Pricing, Testimonials Buy Online
+2. Hero
+3. In Stores At
+4. Types of Products
+5. About Us
+6. Pricing: Discover Botle
+7. Testimonials
+8. Brand Values
+9. Call To Action
+10. Footer
+
